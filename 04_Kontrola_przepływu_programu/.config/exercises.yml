@@ -1,0 +1,36 @@
+---
+exercises:
+  "1_P\u0119tla while":
+    max_points: 0
+    disabled: true
+  "2_Kolejne pot\u0119gi":
+    max_points: 0
+    disabled: true
+  "3_Por\xF3wnanie imion":
+    max_points: 0
+    disabled: true
+  "4_Por\xF3wnanie liczb":
+    max_points: 0
+    disabled: true
+  "5_R\xF3wnania kwadratowe":
+    max_points: 0
+    disabled: true
+  6_Suma liczb:
+    max_points: 0
+    disabled: true
+  "7_\u015Arednia":
+    max_points: 0
+    disabled: true
+  "8_Por\xF3wnywanie napis\xF3w":
+    max_points: 0
+    disabled: true
+  9_Definiowanie listy liczb:
+    max_points: 0
+    disabled: true
+  "10_Tabliczka mno\u017Cenia":
+    max_points: 0
+    disabled: true
+  11_Fizzbuzz:
+    max_points: 0
+    disabled: true
+...

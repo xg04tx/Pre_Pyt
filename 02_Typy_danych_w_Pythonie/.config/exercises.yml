@@ -1,0 +1,24 @@
+---
+exercises:
+  1_Typy danych:
+    max_points: 0
+    disabled: true
+  "2_Warto\u015Bci logiczne":
+    max_points: 0
+    disabled: true
+  3_Dodawanie:
+    max_points: 0
+    disabled: true
+  4_Operacje matematyczne:
+    max_points: 0
+    disabled: true
+  "5_Dodawanie element\xF3w do listy":
+    max_points: 0
+    disabled: true
+  6_Lista liczb:
+    max_points: 0
+    disabled: true
+  "7_Pobieranie element\xF3w z listy":
+    max_points: 0
+    disabled: true
+...

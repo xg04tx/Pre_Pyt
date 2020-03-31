@@ -1,0 +1,12 @@
+---
+exercises:
+  1_Pierwszy program:
+    max_points: 0
+    disabled: true
+  "2_Interaktywna pow\u0142oka":
+    max_points: 0
+    disabled: true
+  "3_B\u0142\u0105d w interaktywnej pow\u0142oce":
+    max_points: 0
+    disabled: true
+...

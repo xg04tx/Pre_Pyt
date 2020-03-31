@@ -1,0 +1,27 @@
+---
+exercises:
+  "1_Pobieranie danych od u\u017Cytkownika":
+    max_points: 0
+    disabled: true
+  "2_\u0141\u0105czenie listy":
+    max_points: 0
+    disabled: true
+  3_Dzielenie modulo:
+    max_points: 0
+    disabled: true
+  4_Inkrementacja i dekrementacja:
+    max_points: 0
+    disabled: true
+  "5_Por\xF3wnywanie zmiennych":
+    max_points: 0
+    disabled: true
+  "6_R\xF3\u017Cnica wieku":
+    max_points: 0
+    disabled: true
+  7_Dzielenie:
+    max_points: 0
+    disabled: true
+  "8_Wiek u\u017Cytkownika":
+    max_points: 0
+    disabled: true
+...
